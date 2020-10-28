@@ -52,16 +52,16 @@ El siguiente es para una secuencia de 2-bit (n = 2)
 
 
 ### Reporte
-Para esta práctica, reporta un screeshot de la demostración de cada uno de los problemas, así como adjuntando el código
-del problema principal, además de explicar la solución.
+En el repositorio podremos encontrar un screeshot de la demostración de cada uno de los problemas, así como adjuntando el código
+del problema principal, además de explicar la solución en un video.
 
 ### File uploads
 En el repositorio de la práctica de github se adjuntará el código fuente (archivos .c) de cada uno de los problemas.
 
 
 ### Demonstration
-Se realizará un screenshoot de cada una de la resolución de cada uno de los problemas, además se grabará un video
+Se realizó un screenshoot de cada una de la resolución de cada uno de los problemas, además se grabaró un video
 explicando la solución y ejecutandola para validar su comprobación.
 
 ## Conclusion
-En esta sección, deberás añadir las conclusiones, sugerencias y/o problemas de las actividades de laboratorio. 
+El objetivo principal de esta practica era familiarizarnos con el manejo de operaciones binarias en programación C realizando 4 problemas. Para mi ha sido una practica retadora, ya que no soy buena programando y mucho menos en lenguaje C. Sin embargo, despues de ver diversos tutoriales en internet y una larga busqueda pude elaborar la practica. Sin duda ha sido de los laboratorios más retadores para mi de toda la carrera. 
